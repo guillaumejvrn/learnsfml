@@ -1,4 +1,5 @@
 #include <SFML/Graphics.hpp>
+#include <iostream>
 
 int main() {
     sf::RenderWindow fenetre(sf::VideoMode(800, 600), "Ma Fenêtre SFML");
