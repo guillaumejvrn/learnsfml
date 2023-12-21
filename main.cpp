@@ -4,7 +4,7 @@ int main() {
     sf::RenderWindow fenetre(sf::VideoMode(800, 600), "Ma Fenêtre SFML");
 
     sf::Font police;
-    if (!police.loadFromFile("/home/pepito/Bureau/learnsfml/font/font.ttf")) {
+    if (!police.loadFromFile("/home/pepito/Documents/font/Roboto-MediumItalic.ttf")) {
         // Gérer l'erreur de chargement de la police
     }
 

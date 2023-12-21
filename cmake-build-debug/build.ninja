@@ -52,6 +52,7 @@ build cmake_object_order_depends_target_learnsfml: phony || CMakeFiles/learnsfml
 build CMakeFiles/learnsfml.dir/main.cpp.o: CXX_COMPILER__learnsfml_unscanned_Debug /home/pepito/Bureau/learnsfml/main.cpp || cmake_object_order_depends_target_learnsfml
   DEP_FILE = CMakeFiles/learnsfml.dir/main.cpp.o.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I/home/pepito/Documents/font/Roboto-MediumItalic.ttf
   OBJECT_DIR = CMakeFiles/learnsfml.dir
   OBJECT_FILE_DIR = CMakeFiles/learnsfml.dir
 

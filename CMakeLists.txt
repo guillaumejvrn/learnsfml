@@ -10,3 +10,5 @@ add_executable(learnsfml main.cpp)
 
 # Liaison avec les bibliothèques SFML
 target_link_libraries(learnsfml sfml-system sfml-window sfml-graphics sfml-network sfml-audio)
+
+include_directories("/home/pepito/Documents/font/Roboto-MediumItalic.ttf")
