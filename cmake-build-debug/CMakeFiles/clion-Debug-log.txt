@@ -1,0 +1,5 @@
+/home/pepito/Bureau/cmake-3.28.1-linux-x86_64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/pepito/Bureau/learnsfml -B /home/pepito/Bureau/learnsfml/cmake-build-debug
+-- Found SFML 2.6.1 in /usr/lib/cmake/SFML
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/pepito/Bureau/learnsfml/cmake-build-debug
